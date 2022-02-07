@@ -26,4 +26,4 @@ The easiest way to switch branch on Git is to use the “git checkout” command
 Merge conflicts occur when competing changes are made to the same line of a file, or when one person edits a file and another person deletes the same file.
 
 8. How do you resolve a merge conflict?
-You can merge the branches on the command line or push your changes to your remote repository on GitHub and merge your changes in a pull request.
+You can merge the branches on the command line or push your changes to your remote repository on GitHub and merge your changes in a pull request.!
